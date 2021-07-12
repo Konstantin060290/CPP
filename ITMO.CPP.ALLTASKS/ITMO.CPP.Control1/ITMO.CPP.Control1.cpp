@@ -31,9 +31,9 @@ int main()
 	//x5 - 8
 	//y5 - 9
 	double s;
-	s = (0.5) * (coords[0] * coords[3] + coords[2] * coords[5] + coords[4] * coords[7] + coords[6] * coords[9] +
+	s = (0.5) * abs((coords[0] * coords[3] + coords[2] * coords[5] + coords[4] * coords[7] + coords[6] * coords[9] +
 				 coords[8] * coords[1] - coords[1] * coords[2] - coords[3] * coords[4] - coords[5] * coords[6] -
-				 coords[7] * coords[8] - coords[9] * coords[0]);
+				 coords[7] * coords[8] - coords[9] * coords[0]));
 	cout << "Площадь многоугольника равна:"<<s<<endl;
 
 	//for (int i = 0; i < 10; i++)
