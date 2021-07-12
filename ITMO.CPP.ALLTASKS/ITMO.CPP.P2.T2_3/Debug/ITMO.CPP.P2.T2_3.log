@@ -1,0 +1,5 @@
+﻿  ITMO.CPP.P2.T2_3.cpp
+D:\Coding\ITMO\14_CPP\TASKS\ITMO.CPP.ALLTASKS\ITMO.CPP.P2.T2_3\ITMO.CPP.P2.T2_3.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Coding\ITMO\14_CPP\TASKS\ITMO.CPP.ALLTASKS\ITMO.CPP.P2.T2_3\ITMO.CPP.P2.T2_3.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Coding\ITMO\14_CPP\TASKS\ITMO.CPP.ALLTASKS\ITMO.CPP.P2.T2_3\ITMO.CPP.P2.T2_3.cpp(10,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ITMO.CPP.P2.T2_3.vcxproj -> D:\Coding\ITMO\14_CPP\TASKS\ITMO.CPP.ALLTASKS\Debug\ITMO.CPP.P2.T2_3.exe
