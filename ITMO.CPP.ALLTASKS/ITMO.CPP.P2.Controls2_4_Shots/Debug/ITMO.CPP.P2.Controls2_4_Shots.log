@@ -1,0 +1,3 @@
+﻿  ITMO.CPP.P2.Controls2_4_Shots.cpp
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P2.Controls2_4_Shots\ITMO.CPP.P2.Controls2_4_Shots.cpp(50,23): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  ITMO.CPP.P2.Controls2_4_Shots.vcxproj -> D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\Debug\ITMO.CPP.P2.Controls2_4_Shots.exe
