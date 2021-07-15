@@ -33,7 +33,7 @@ int main()
 
 	int score = 0;
 	double c1_area = M_PI * pow(1, 2);//площадь внутренней окружности
-	double c2_area = M_PI * pow(2, 2);//площадь внутренней окружности
+	double c2_area = M_PI * pow(2, 2);//площадь наружной окружности
 	int regime;
 	cout << "Выберите режим игры: \n";
 	cout << "1 - Стандартный режим;\n";
