@@ -1,0 +1,7 @@
+﻿  ITMO.CPP.P5_T5.cpp
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P5_T5\ITMO.CPP.P5_T5.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P5_T5\ITMO.CPP.P5_T5.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P5_T5\ITMO.CPP.P5_T5.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P5_T5\ITMO.CPP.P5_T5.cpp(34,40): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P5_T5\ITMO.CPP.P5_T5.cpp(34,122): warning C4018: <: несоответствие типов со знаком и без знака
+  ITMO.CPP.P5_T5.vcxproj -> D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\Debug\ITMO.CPP.P5_T5.exe

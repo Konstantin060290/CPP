@@ -1,0 +1,5 @@
+﻿  ITMO.CPP.P7_Control2_QuadrEquation.cpp
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P7_Control2_QuadrEquation\ITMO.CPP.P7_Control2_QuadrEquation.cpp(26): warning C4172: возвращение адреса локальной или временной переменной : roots_arr
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P7_Control2_QuadrEquation\ITMO.CPP.P7_Control2_QuadrEquation.cpp(33): warning C4172: возвращение адреса локальной или временной переменной : roots_arr
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P7_Control2_QuadrEquation\ITMO.CPP.P7_Control2_QuadrEquation.cpp(39): warning C4172: возвращение адреса локальной или временной переменной : roots_arr
+  ITMO.CPP.P7_Control2_QuadrEquation.vcxproj -> D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\Debug\ITMO.CPP.P7_Control2_QuadrEquation.exe
