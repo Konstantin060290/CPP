@@ -1,0 +1,4 @@
+﻿  ITMO.CPP.P8_T3.cpp
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P8_T3\ITMO.CPP.P8_T3.cpp(21,56): error C2664: "Student::Student(const Student &)": невозможно преобразовать аргумент 3 из "IdCard" в "IdCard *"
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P8_T3\ITMO.CPP.P8_T3.cpp(21,52): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P8_T2\student.h(15,2): message : см. объявление "Student::Student"

@@ -1,0 +1,3 @@
+﻿  Triangle.cpp
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P10_Control_Triangle\Triangle.cpp(6,1): error C2011: Triangle: переопределение типа "class"
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P10_Control_Triangle\Triangle.h(9): message : см. объявление "Triangle"
