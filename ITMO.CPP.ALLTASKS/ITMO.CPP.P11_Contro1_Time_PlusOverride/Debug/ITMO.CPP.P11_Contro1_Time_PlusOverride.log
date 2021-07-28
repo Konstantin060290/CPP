@@ -1,0 +1,3 @@
+﻿  ITMO.CPP.P11_Contro1_Time_PlusOverride.cpp
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P11_Contro1_Time_PlusOverride\ITMO.CPP.P11_Contro1_Time_PlusOverride.cpp(106,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ITMO.CPP.P11_Contro1_Time_PlusOverride.vcxproj -> D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\Debug\ITMO.CPP.P11_Contro1_Time_PlusOverride.exe

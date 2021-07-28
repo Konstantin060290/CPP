@@ -1,0 +1,9 @@
+﻿  Group.cpp
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(45,13): error C2819: тип "Student" не имеет перегруженный "operator ->"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Student.h(8): message : см. объявление "Student"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(45,13): message : возможно, имеется в виду "."
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(45,22): error C2232: ->Student::display: левый операнд имеет тип "class", используйте "."
+  main.cpp
+  student.cpp
+  Создание кода...
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(50,43): error C2661: Student::Student: нет перегруженной функции, принимающей 2 аргументов

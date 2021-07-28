@@ -1,0 +1,28 @@
+﻿  ITMO.CPP.P14.T2.cpp
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(66,47): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(66,47): warning C4244:         with
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(66,47): warning C4244:         [
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(66,47): warning C4244:             T=float
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(66,47): warning C4244:         ]
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(33,1): warning C4244: +=: преобразование "T" в "long", возможна потеря данных
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(33,1): warning C4244:         with
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(33,1): warning C4244:         [
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(33,1): warning C4244:             T=float
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(33,1): warning C4244:         ]
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(31): message : во время компиляции функции-члена класс шаблон "T1 array<float,T1>::sum(void)"
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(31): message :         with
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(31): message :         [
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(31): message :             T1=float
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(31): message :         ]
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(68): message : выполняется компиляция ссылки на экземпляр шаблон функции "T1 array<float,T1>::sum(void)"
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(68): message :         with
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(68): message :         [
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(68): message :             T1=float
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(68): message :         ]
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(60): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "array<float,float>"
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(34,9): warning C4244: return: преобразование "long" в "T1", возможна потеря данных
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(34,9): warning C4244:         with
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(34,9): warning C4244:         [
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(34,9): warning C4244:             T1=float
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14.T2\ITMO.CPP.P14.T2.cpp(34,9): warning C4244:         ]
+  ITMO.CPP.P14.T2.vcxproj -> D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\Debug\ITMO.CPP.P14.T2_ClassTemplate.exe

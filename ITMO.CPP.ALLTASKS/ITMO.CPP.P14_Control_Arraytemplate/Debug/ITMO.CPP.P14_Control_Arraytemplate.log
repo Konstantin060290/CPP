@@ -1,0 +1,32 @@
+﻿  ITMO.CPP.P14_Control_Arraytemplate.cpp
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244: return: преобразование "double" в "t", возможна потеря данных
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244:         with
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244:         [
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244:             t=int
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244:         ]
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(27): message : выполняется компиляция ссылки на экземпляр шаблон функции "t average_of_array<int>(t [],int)"
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(27): message :         with
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(27): message :         [
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(27): message :             t=int
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(27): message :         ]
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244: return: преобразование "double" в "t", возможна потеря данных
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244:         with
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244:         [
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244:             t=long
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244:         ]
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(31): message : выполняется компиляция ссылки на экземпляр шаблон функции "t average_of_array<long>(t [],int)"
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(31): message :         with
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(31): message :         [
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(31): message :             t=long
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(31): message :         ]
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244: return: преобразование "double" в "t", возможна потеря данных
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244:         with
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244:         [
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244:             t=char
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(20,9): warning C4244:         ]
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(39): message : выполняется компиляция ссылки на экземпляр шаблон функции "t average_of_array<char>(t [],int)"
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(39): message :         with
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(39): message :         [
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(39): message :             t=char
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P14_Control_Arraytemplate\ITMO.CPP.P14_Control_Arraytemplate.cpp(39): message :         ]
+  ITMO.CPP.P14_Control_Arraytemplate.vcxproj -> D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\Debug\ITMO.CPP.P14_Control_Arraytemplate.exe
