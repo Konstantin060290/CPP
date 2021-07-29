@@ -3,21 +3,53 @@
 
 #include <iostream>
 #include <map>
+#include <string>
+#include <random>
 using namespace std;
 
 struct StudentGrade
 {
 	string name;
-	char grade;
+	string grade;
 };
 
-map <string, int, int> myFirstMap = { { "Mother", 37, 5}};
+map <string, string> Student_grade;
 
-
+int getRandomNumber(int min, int max)
+{
+	int c = min + rand() % (max - min);
+	return c;
+}
 
 int main()
 {
-    std::cout << "Hello World!\n";
+	StudentGrade s1;
+	int quantity;
+	cout << "Enter quantity of stdents in a group:" << endl; cin >> quantity;
+	for (int i = 0; i < quantity; i++)
+	{
+		cout << "Enter name of student:" << endl; cin >> s1.name;
+		s1.grade = "0";
+		Student_grade.emplace(s1.name, s1.grade);
+	}
+	
+	string flag = "y";
+	while (flag == "y")
+	{
+		string input;
+		cout << "Enter name of student for grade:" << endl; cin >> input;
+		auto iter = Student_grade.find(input);
+		if (iter == Student_grade.end())
+		{
+			cout << "Student doesn't found";
+		}
+		iter->second = to_string(getRandomNumber(1,5));
+		cout << "Student: " << iter->first << "; grade: " << iter->second << endl;
+		cout << "Again y/n?"; cin >> flag;
+		
+	}
+	system("pause");
+
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"

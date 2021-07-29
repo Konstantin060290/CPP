@@ -1,9 +1,46 @@
 ﻿  Group.cpp
-D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(45,13): error C2819: тип "Student" не имеет перегруженный "operator ->"
-D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Student.h(8): message : см. объявление "Student"
-D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(45,13): message : возможно, имеется в виду "."
-D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(45,22): error C2232: ->Student::display: левый операнд имеет тип "class", используйте "."
-  main.cpp
-  student.cpp
-  Создание кода...
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(13,21): error C2065: compareStudent: необъявленный идентификатор
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(13,2): error C2923: std::multiset: "compareStudent" не является допустимым аргументом типа шаблон для параметра "_Pr"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(14,21): error C2065: compareStudent: необъявленный идентификатор
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(14,2): error C2923: std::multiset: "compareStudent" не является допустимым аргументом типа шаблон для параметра "_Pr"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(14,38): error C2955: "std::multiset": для использования класс шаблон требуется список аргументов шаблон
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\set(181): message : см. объявление "std::multiset"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(12,2): error C2512: std::multiset: нет подходящего конструктора по умолчанию
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\set(181,70): message : см. объявление "std::multiset"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(16,2): error C2512: std::multiset: нет подходящего конструктора по умолчанию
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\set(181,70): message : см. объявление "std::multiset"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(31,21): error C2662: allocator_traits<allocator_traits<_Traits::allocator_type>::rebind_alloc<_Traits::value_type>>::size_type std::_Tree<_Traits>::size(void) noexcept const: невозможно преобразовать указатель "this" из "std::multiset" в "const std::_Tree<_Traits> &"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(31,21): message : Причина: невозможно преобразовать "std::multiset" в "const std::_Tree<_Traits>"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(31,10): message : Для преобразования требуется второй оператор пользовательского преобразования или конструктор
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xtree(1306,26): message : см. объявление "std::_Tree<_Traits>::size"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(35,18): error C2039: push_back: не является членом "std::multiset"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\set(181): message : см. объявление "std::multiset"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(39,15): error C2039: remove: не является членом "std::multiset"
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\set(181): message : см. объявление "std::multiset"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(43,15): error C2663: std::_Tree<_Traits>::begin: для 2 перегрузок нет допустимого преобразования для указателя "this"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(44,23): error C2663: std::_Tree<_Traits>::end: для 2 перегрузок нет допустимого преобразования для указателя "this"
 D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(50,43): error C2661: Student::Student: нет перегруженной функции, принимающей 2 аргументов
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(51,20): error C2663: std::_Tree<_Traits>::begin: для 2 перегрузок нет допустимого преобразования для указателя "this"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(51,35): error C2663: std::_Tree<_Traits>::end: для 2 перегрузок нет допустимого преобразования для указателя "this"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(51,10): error C2672: "find": не найдена соответствующая перегруженная функция
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.cpp(51,47): error C2780: _InIt std::find(_InIt,const _InIt,const _Ty &): требует аргументов: 3, имеется: 2
+  Создание кода...
+  Компиляция...
+  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\xutility(2820): message : см. объявление "std::find"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(13,21): error C2065: compareStudent: необъявленный идентификатор
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(13,2): error C2923: std::multiset: "compareStudent" не является допустимым аргументом типа шаблон для параметра "_Pr"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(14,21): error C2065: compareStudent: необъявленный идентификатор
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(14,2): error C2923: std::multiset: "compareStudent" не является допустимым аргументом типа шаблон для параметра "_Pr"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(14,38): error C2955: "std::multiset": для использования класс шаблон требуется список аргументов шаблон
+  Создание кода...
+  Компиляция...
+  student.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\set(181): message : см. объявление "std::multiset"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(13,21): error C2065: compareStudent: необъявленный идентификатор
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(13,2): error C2923: std::multiset: "compareStudent" не является допустимым аргументом типа шаблон для параметра "_Pr"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(14,21): error C2065: compareStudent: необъявленный идентификатор
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(14,2): error C2923: std::multiset: "compareStudent" не является допустимым аргументом типа шаблон для параметра "_Pr"
+D:\Coding\ITMO\14_CPP\Demo_source_C++\Lab_STL\Group.h(14,38): error C2955: "std::multiset": для использования класс шаблон требуется список аргументов шаблон
+  Создание кода...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\set(181): message : см. объявление "std::multiset"
