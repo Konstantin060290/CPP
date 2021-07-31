@@ -1,0 +1,9 @@
+﻿  ITMO.CPP.P10.C2_composition.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\tuple(495,76): warning C4244: =: преобразование "_Ty" в "int", возможна потеря данных
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\tuple(495,76): warning C4244:         with
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\tuple(495,76): warning C4244:         [
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\tuple(495,76): warning C4244:             _Ty=double
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\tuple(495,76): warning C4244:         ]
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P10.C2_composition\ITMO.CPP.P10.C2_composition.cpp(22): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<int &,int &,int &> &std::tuple<int &,int &,int &>::operator =<double,double,double,0>(std::tuple<double,double,double> &&) noexcept"
+D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\ITMO.CPP.P10.C2_composition\ITMO.CPP.P10.C2_composition.cpp(22): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::tuple<int &,int &,int &> &std::tuple<int &,int &,int &>::operator =<double,double,double,0>(std::tuple<double,double,double> &&) noexcept"
+  ITMO.CPP.P10.C2_composition.vcxproj -> D:\Coding\ITMO\14_CPP\TASKS\CPP\ITMO.CPP.ALLTASKS\Debug\ITMO.CPP.P10.C2_composition.exe
